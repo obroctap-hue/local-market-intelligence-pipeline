@@ -2,7 +2,7 @@ import pandas as pd
 from sqlalchemy import create_engine
 
 DB_USER = "postgres"
-DB_PASSWORD = "Dittlebella1397255!"
+DB_PASSWORD = "PaulObro!"
 DB_HOST = "localhost"
 DB_PORT = "5432"
 DB_NAME = "local_market_pipeline"
